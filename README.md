@@ -38,6 +38,16 @@ A **ReservaFIAP** é um **app mobile** que possibilita **alunos da FIAP reservar
 
 <br/>
 
+## ⚙️ Decisões Técnicas (Resumo)
+
+- App desenvolvido com **React Native + Expo** e navegação com **Expo Router (Tabs)**.
+- Estrutura inicial em **MVP**, com foco em fluxo principal: listar salas, reservar e visualizar perfil.
+- Dados e ações ainda estão em **mock/local state**, priorizando velocidade de entrega.
+- Interface segue identidade visual única (tema escuro com destaque magenta).
+- Próxima evolução: integração com backend, validação robusta de formulário e testes.
+
+<br/>
+
 # 
 
 ### 🎯 Release
