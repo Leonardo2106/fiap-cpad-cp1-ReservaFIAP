@@ -4,7 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/Disciplina-Cross--Platform_Application_Development-green)
 ![Static Badge](https://img.shields.io/badge/github-repo-blue?logo=github)
 
-![Static Badge](https://img.shields.io/badge/version-1--0--0-orange?logo=linkedin)s
+![Static Badge](https://img.shields.io/badge/version-1--0--0-green?logo=linkedin)
 
 ### 🖥️ Developers:
 
@@ -42,12 +42,10 @@ A **ReservaFIAP** é um **app mobile** que possibilita **alunos da FIAP reservar
 
 ### 🎯 Release
 
-**Versão de Desenvolvedor**:
+**Versão 1.0.0**:
 
 <img width='250px' src='ReservaFIAP/assets/screenshots/Screenshot_1774386570.png' >
 <img width='250px' src='ReservaFIAP/assets/screenshots/Screenshot_1774474257.png' >
-
-**Note**: O app contém uma tela `index` e a tela `reservar` por enquanto. O próximo passo é criar duas telas: uma tela de `perfil`.
 
 #
 
