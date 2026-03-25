@@ -4,7 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/Disciplina-Cross--Platform_Application_Development-green)
 ![Static Badge](https://img.shields.io/badge/github-repo-blue?logo=github)
 
-![Static Badge](https://img.shields.io/badge/version-debug_v2-orange?logo=linkedin)
+![Static Badge](https://img.shields.io/badge/version-1--0--0-orange?logo=linkedin)s
 
 ### 🖥️ Developers:
 

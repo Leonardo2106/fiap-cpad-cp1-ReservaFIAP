@@ -19,6 +19,15 @@ export default function Layout() {
                     tabBarIcon: ({ color }) => <Ionicons name="bug" size={24} color={color} />
                 }}
             />
+
+            <Tabs.Screen 
+                name='profile'
+                options={{
+                    headerShown: false,
+                    tabBarIcon: ({ color }) => <Ionicons name="user" size={24} color={color} />
+                }}
+            />
+
         </Tabs>
     )
 }
